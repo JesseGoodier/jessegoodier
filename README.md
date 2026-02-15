@@ -42,48 +42,48 @@ Most of my work is in private repositories for Kubecost. In my free time  have b
 <tr>
 <td width="50%">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kdebug&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kdebug&theme=default&hide_border=true" />
-<img alt="kdebug" src="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kdebug&theme=default&hide_border=true" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kdebug&theme=github_dark&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kdebug&theme=default&hide_border=true" />
+<img alt="kdebug" src="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kdebug&theme=default&hide_border=true" width="100%" />
 </picture>
 </td>
 <td width="50%">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kpf&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kpf&theme=default&hide_border=true" />
-<img alt="kpf" src="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kpf&theme=default&hide_border=true" width="100%" />
-</picture>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=jesse-zsh-profile&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=jesse-zsh-profile&theme=default&hide_border=true" />
-<img alt="jesse-zsh-profile" src="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=jesse-zsh-profile&theme=default&hide_border=true" width="100%" />
-</picture>
-</td>
-<td width="50%">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kgc&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kgc&theme=default&hide_border=true" />
-<img alt="kgc" src="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kgc&theme=default&hide_border=true" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kpf&theme=github_dark&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kpf&theme=default&hide_border=true" />
+<img alt="kpf" src="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kpf&theme=default&hide_border=true" width="100%" />
 </picture>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kge&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kge&theme=default&hide_border=true" />
-<img alt="kge" src="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=kge&theme=default&hide_border=true" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=jesse-zsh-profile&theme=github_dark&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=jesse-zsh-profile&theme=default&hide_border=true" />
+<img alt="jesse-zsh-profile" src="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=jesse-zsh-profile&theme=default&hide_border=true" width="100%" />
 </picture>
 </td>
 <td width="50%">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=logpilot&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=logpilot&theme=default&hide_border=true" />
-<img alt="logpilot" src="https://github-readme-stats.vercel.app/api/pin/?username=jessegoodier&repo=logpilot&theme=default&hide_border=true" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kgc&theme=github_dark&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kgc&theme=default&hide_border=true" />
+<img alt="kgc" src="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kgc&theme=default&hide_border=true" width="100%" />
+</picture>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kge&theme=github_dark&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kge&theme=default&hide_border=true" />
+<img alt="kge" src="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=kge&theme=default&hide_border=true" width="100%" />
+</picture>
+</td>
+<td width="50%">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=logpilot&theme=github_dark&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=logpilot&theme=default&hide_border=true" />
+<img alt="logpilot" src="https://github-readme-stats.jessegoodier.com/api/pin/?username=jessegoodier&repo=logpilot&theme=default&hide_border=true" width="100%" />
 </picture>
 </td>
 </tr>
@@ -94,14 +94,14 @@ Most of my work is in private repositories for Kubecost. In my free time  have b
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jessegoodier&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jessegoodier&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" />
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jessegoodier&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="180" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api?username=jessegoodier&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api?username=jessegoodier&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" />
+<img alt="GitHub Stats" src="https://github-readme-stats.jessegoodier.com/api?username=jessegoodier&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="180" />
 </picture>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jessegoodier&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jessegoodier&layout=compact&langs_count=8&theme=default&hide_border=true" />
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessegoodier&layout=compact&langs_count=8&theme=default&hide_border=true" height="180" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api/top-langs/?username=jessegoodier&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api/top-langs/?username=jessegoodier&layout=compact&langs_count=8&theme=default&hide_border=true" />
+<img alt="Top Languages" src="https://github-readme-stats.jessegoodier.com/api/top-langs/?username=jessegoodier&layout=compact&langs_count=8&theme=default&hide_border=true" height="180" />
 </picture>
 
 </div>
